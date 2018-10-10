@@ -1,0 +1,131 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="/media/bhushan/New Volume1/Uncategorized Data/data/workspace/BSMSG-GUI/Development/src/com/elitecore/util/HibernateUtil.java" timestamp="1529571592834">
+        <mark key="'" line="35" column="32" />
+      </file>
+      <file name="/media/bhushan/New Volume1/Uncategorized Data/data/workspace/BSMSG-GUI/Development/src/com/elitecore/hibernate/base/HibernateDAOFactory.java" timestamp="1529562706510">
+        <mark key="'" line="945" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="78" column="19" filename="$USER_HOME$/faltu/spring5examples/jokeapp/src/main/resources/banner.txt" />
+      <jump line="14" column="2" filename="$USER_HOME$/faltu/spring5examples/jokeapp/src/main/resources/banner.txt" />
+      <jump line="466" column="0" filename="/media/bhushan/New Volume1/Uncategorized Data/bhushan/BSMSG-NASComponents/Development/src/cyberoam/access/server/StartNASComponents.java" />
+      <jump line="37" column="0" filename="/media/bhushan/New Volume1/Uncategorized Data/bhushan/BSMSG-NASComponents/Development/src/cyberoam/access/server/StartNASComponents.java" />
+      <jump line="303" column="46" filename="/media/bhushan/New Volume1/Uncategorized Data/bhushan/BSMSG-NASComponents/Development/src/cyberoam/access/server/StartNASComponents.java" />
+      <jump line="0" column="0" filename="/media/bhushan/New Volume1/Uncategorized Data/bhushan/BSMSG-NASComponents/Development/src/cyberoam/access/server/StartNASComponents.java" />
+      <jump line="29" column="36" filename="/media/bhushan/New Volume1/Uncategorized Data/bhushan/BSMSG-NASComponents/Development/src/cyberoam/access/server/StartNASComponents.java" />
+      <jump line="276" column="96" filename="/media/bhushan/New Volume1/Uncategorized Data/bhushan/BSMSG-NASComponents/Development/src/cyberoam/access/server/StartNASComponents.java" />
+      <jump line="945" column="0" filename="/media/bhushan/New Volume1/Uncategorized Data/data/workspace/BSMSG-GUI/Development/src/com/elitecore/hibernate/base/HibernateDAOFactory.java" />
+      <jump line="35" column="32" filename="/media/bhushan/New Volume1/Uncategorized Data/data/workspace/BSMSG-GUI/Development/src/com/elitecore/util/HibernateUtil.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>*</text>
+      </register>
+      <register name="-" type="4">
+        <text>*</text>
+      </register>
+      <register name="/" type="4">
+        <text>ThreadScope</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">Ly9AQ29tcG9uZW50U2NhbihiYXNlUGFja2FnZXMgPSB7ImNvbS5zdGVybGl0ZS5zZXJ2aWNlcyJ9KQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">QFNlcnZpY2UKQFByaW1hcnkKQFByb2ZpbGUoImhpIikK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">QFNlcnZpY2UKQFByb2ZpbGUoImdqIikKQFByaW1hcnkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">QFNlcnZpY2UKQFByb2ZpbGUoeyJlbiIsImRlZmF1bHQifSkKQFByaW1hcnkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjYXNlICJlbiI6CiAgICAgICAgICAgIHJldHVybiBuZXcgUHJpbWFyeUdyZWV0aW5nU2VydmljZShncmVldGluZ1JlcG9zaXRvcnkpOwogICAgICAgIGNhc2UgImdqIjoKICAgICAgICAgICAgcmV0dXJuIG5ldyBQcmltYXJ5R3VqYXJhdGlHcmVldGluZ1NlcnZpY2UoZ3JlZXRpbmdSZXBvc2l0b3J5KTsKICAgICAgICBjYXNlICJoaSI6CiAgICAgICAgICAgIHJldHVybiBuZXcgUHJpbWFyeUhpbmRpR3JlZXRpbmdTZXJ2aWNlKGdyZWV0aW5nUmVwb3NpdG9yeSk7CiAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgcmV0dXJuIG5ldyBQcmltYXJ5R3JlZXRpbmdTZXJ2aWNlKGdyZWV0aW5nUmVwb3NpdG9yeSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgOgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL3NwcmluZ2ZyYW1ld29ya2d1cnUvc3ByaW5nNS1kaS1kZW1vLmdpdAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">LyoqKgogKiAgICAgX19fICAgICAgIF9fXyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfX18gICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfX18KICogICAgKCAgICkgICAgICggICApICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoICAgKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAoICAgKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC4tLgogKiAgICAgfCB8Li0uICAgIHwgfCAuLS4gICAgX19fICBfX18gICAgICAuLS0uICAgICB8IHwgLi0uICAgICAuLS0tLiAgIF9fXyAuLS4gICAgICB8IHwgICBfX18gICAgIC4tLS0uICAgX19fIC4tLiAgICAoIF9fKSAgIC4tLS0uCiAqICAgICB8IC8gICBcICAgfCB8LyAgIFwgICggICApKCAgICkgICAvICBfICBcICAgIHwgfC8gICBcICAgLyAuLSwgXCAoICAgKSAgIFwgICAgIHwgfCAgKCAgICkgICAvIC4tLCBcICggICApICAgXCAgICgnJyIpICAvIC4tLCBcCiAqICAgICB8ICAuLS4gfCAgfCAgLi0uIC4gICB8IHwgIHwgfCAgIC4gLicgYC4gOyAgIHwgIC4tLiAuICAoX18pIDsgfCAgfCAgLi0uIC4gICAgIHwgfCAgJyAvICAgIChfXykgOyB8ICB8ICcgLi0uIDsgICB8IHwgIChfXykgOyB8CiAqICAgICB8IHwgIHwgfCAgfCB8ICB8IHwgICB8IHwgIHwgfCAgIHwgJyAgIHwgfCAgIHwgfCAgfCB8ICAgIC4nYCAgfCAgfCB8ICB8IHwgICAgIHwgfCwnIC8gICAgICAgLidgICB8ICB8ICAvIChfX18pICB8IHwgICAgLidgICB8CiAqICAgICB8IHwgIHwgfCAgfCB8ICB8IHwgICB8IHwgIHwgfCAgIF9cX2AuKF9fXykgIHwgfCAgfCB8ICAgLyAuJ3wgfCAgfCB8ICB8IHwgICAgIHwgLiAgJy4gICAgICAvIC4nfCB8ICB8IHwgICAgICAgICB8IHwgICAvIC4nfCB8CiAqICAgICB8IHwgIHwgfCAgfCB8ICB8IHwgICB8IHwgIHwgfCAgKCAgICkuICcuICAgIHwgfCAgfCB8ICB8IC8gIHwgfCAgfCB8ICB8IHwgICAgIHwgfCBgLiBcICAgIHwgLyAgfCB8ICB8IHwgICAgICAgICB8IHwgIHwgLyAgfCB8CiAqICAgICB8ICcgIHwgfCAgfCB8ICB8IHwgICB8IHwgIDsgJyAgIHwgfCAgYFwgfCAgIHwgfCAgfCB8ICA7IHwgIDsgfCAgfCB8ICB8IHwgICAgIHwgfCAgIFwgXCAgIDsgfCAgOyB8ICB8IHwgICAgICAgICB8IHwgIDsgfCAgOyB8CiAqICAgICAnIGAtJyA7ICAgfCB8ICB8IHwgICAnIGAtJyAgLyAgIDsgJy5fLCcgJyAgIHwgfCAgfCB8ICAnIGAtJyAgfCAgfCB8ICB8IHwgICAgIHwgfCAgICBcIC4gICcgYC0nICB8ICB8IHwgICAgICAgICB8IHwgICcgYC0nICB8CiAqICAgICAgYC5fXy4gICAoX19fKShfX18pICAgJy5fXy4nICAgICAnLl9fXy4nICAgKF9fXykoX19fKSBgLl9fLidfLiAoX19fKShfX18pICAgKF9fXyApIChfX18pIGAuX18uJ18uIChfX18pICAgICAgIChfX18pIGAuX18uJ18uCiAqCiAqCiAqLwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">XAoKICAgLyAgICAgICAgICAgICAgICAgICAgICAgXAogL1gvICAgICAgICAgICAgICAgICAgICAgICBcWFwKfFhYXCAgICAgICAgIF9fX19fICAgICAgICAgL1hYfAp8WFhYXCAgICAgXy8gICAgICAgXF8gICAgIC9YWFh8X19fX19fX19fX18KIFxYWFhYWFhYICAgICAgICAgICAgIFhYWFhYWFgvICAgICAgICAgICAgXFxcCiAgIFxYWFhYICAgIC8gICAgIFwgICAgWFhYWFgvICAgICAgICAgICAgICAgIFxcXAogICAgICAgIHwgICAwICAgICAwICAgfCAgICAgICAgICAgICAgICAgICAgICAgICBcCiAgICAgICAgIHwgICAgICAgICAgIHwgICAgICAgICAgICAgICAgICAgICAgICAgICBcCiAgICAgICAgICBcICAgICAgICAgLyAgICAgICAgICAgICAgICAgICAgICAgICAgICB8X19fX19fLy8KICAgICAgICAgICBcICAgICAgIC8gICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwKICAgICAgICAgICAgfCBPX08gfCBcICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwKICAgICAgICAgICAgIFwgXyAvICAgXF9fX19fX19fX19fX19fX18gICAgICAgICAgIHwKICAgICAgICAgICAgICAgICAgICAgICAgfCB8ICB8IHwgICAgICBcICAgICAgICAgLwogIE5vIEJ1bGxzaGl0LCAgICAgICAgICAvIHwgIC8gfCAgICAgICBcX19fX19fLwogICBQbGVhc2UuLi4gICAgICAgICAgICBcIHwgIFwgfCAgICAgICAgXCB8ICBcIHwKICAgICAgICAgICAgICAgICAgICAgIF9ffCB8X198IHwgICAgICBfX3wgfF9ffCB8CiAgICAgICAgICAgICAgICAgICAgICB8X19ffHxfX198ICAgICAgfF9fX3x8X19ffAo=</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>ThreadScope</last-search>
+      <last-offset />
+      <last-pattern>ThreadScope</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>start()</entry>
+        <entry>ThreadLocal</entry>
+        <entry>ThreadScope</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
